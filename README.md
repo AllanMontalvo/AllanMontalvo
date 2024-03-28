@@ -9,4 +9,6 @@
 - <b>Microsoft Azure</b>
   - Configuring On-premises Active Directory within Azure VMs
   - Network Security Groups (NSGs) and Inspecting Network Protocols
+-<b>Virtual Machine</b>
+  - [Configuring On-premises Active Directory within Oracle VM VirtualBox](https://github.com/AllanMontalvo/Active-Directory)
 
