@@ -11,4 +11,6 @@
   - Network Security Groups (NSGs) and Inspecting Network Protocols
 - <b>VirtualBox</b>
   - [Configuring On-premises Active Directory within Oracle VM VirtualBox](https://github.com/AllanMontalvo/Virtualbox-Active-Directory)
-
+ 
+- <b>File Sharing</b>
+  - [File Share and Permission within Oracle VM VirtualBox](https://github.com/AllanMontalvo/File-Share-and-Permission)
