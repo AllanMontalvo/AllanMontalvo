@@ -13,4 +13,7 @@
   - [Configuring On-premises Active Directory within Oracle VM VirtualBox](https://github.com/AllanMontalvo/Virtualbox-Active-Directory)
  
 - <b>File Sharing</b>
-  - [File Share and Permission within Oracle VM VirtualBox](https://github.com/AllanMontalvo/File-Share-and-Permission)
+  - [File Share and Permission](https://github.com/AllanMontalvo/File-Share-and-Permission)
+ 
+- <b>DNS</b>
+  -  [A-Record Creation](https://github.com/AllanMontalvo/A-Record-Exercise)
