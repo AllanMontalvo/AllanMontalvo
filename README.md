@@ -17,3 +17,4 @@
  
 - <b>DNS</b>
   -  [A-Record Creation](https://github.com/AllanMontalvo/A-Record-Exercise)
+  -  [Local DNS Cache](https://github.com/AllanMontalvo/Local-DNS-Cache-Exercise)
