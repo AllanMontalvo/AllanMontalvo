@@ -1,4 +1,4 @@
-<h1>Hi, I'm Allan Montalvo, an IT Student</h1>
+<h1>Hi, My name is Allan Montalvo, an IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
