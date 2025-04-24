@@ -1,4 +1,5 @@
 <h1>Hi, My name is Allan Montalvo, an IT Professional.</h1>
+These are current projects that have been working on to learn and further my career into the IT Field.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
